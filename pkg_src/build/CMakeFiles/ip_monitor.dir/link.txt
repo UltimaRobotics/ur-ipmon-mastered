@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g CMakeFiles/ip_monitor.dir/src/cJSON.c.o CMakeFiles/ip_monitor.dir/src/config.c.o CMakeFiles/ip_monitor.dir/src/logger.c.o CMakeFiles/ip_monitor.dir/src/main.c.o CMakeFiles/ip_monitor.dir/src/monitor.c.o -o ip_monitor 

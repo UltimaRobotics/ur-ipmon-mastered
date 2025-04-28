@@ -44,6 +44,7 @@ void set_log_level(LogLevel level) {
 }
 
 void log_message(LogLevel level, const char *format, ...) {
+    #ifdef _DEBUG
     // Skip if level is below current setting
     if (level < current_log_level) {
         return;
@@ -91,4 +92,5 @@ void log_message(LogLevel level, const char *format, ...) {
     // Add newline and flush
     fprintf(log_file, "\n");
     fflush(log_file);
+    #endif
 }

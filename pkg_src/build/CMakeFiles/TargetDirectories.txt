@@ -1,0 +1,7 @@
+/home/fyou/Documents/ur-ipmon-mastered/pkg_src/build/CMakeFiles/ip_monitor.dir
+/home/fyou/Documents/ur-ipmon-mastered/pkg_src/build/CMakeFiles/edit_cache.dir
+/home/fyou/Documents/ur-ipmon-mastered/pkg_src/build/CMakeFiles/rebuild_cache.dir
+/home/fyou/Documents/ur-ipmon-mastered/pkg_src/build/CMakeFiles/list_install_components.dir
+/home/fyou/Documents/ur-ipmon-mastered/pkg_src/build/CMakeFiles/install.dir
+/home/fyou/Documents/ur-ipmon-mastered/pkg_src/build/CMakeFiles/install/local.dir
+/home/fyou/Documents/ur-ipmon-mastered/pkg_src/build/CMakeFiles/install/strip.dir

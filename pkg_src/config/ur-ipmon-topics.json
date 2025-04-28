@@ -1,0 +1,12 @@
+{
+    "json_added_pubs": {
+        "topics": [
+            "ur-ipmon/results"
+        ]
+    },
+    "json_added_subs": {
+        "topics": [
+            "ur-ipmon/actions"
+        ]
+    }
+}

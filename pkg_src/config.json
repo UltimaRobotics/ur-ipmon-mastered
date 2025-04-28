@@ -9,20 +9,6 @@
             "interval": 1,
             "timeout": 1000,
             "active": true
-        },
-        {
-            "ip": "1.1.1.1",
-            "interval": 1,
-            "timeout": 1500,
-            "active": true
-        },
-        {
-            "ip": "192.168.1.1",
-            "interval": 1,
-            "timeout": 500,
-            "active": false
-        },
-        "9.9.9.9",
-        "4.4.4.4"
+        }
     ]
 }
